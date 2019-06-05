@@ -1,0 +1,9 @@
+<!-- 配置文件 请不要随意修改标签名称 -->
+<config>
+    <EncryptionInfo>
+        <!--  加密方式，目前支持 sha256 sha1 sha224 sha384 sha512  -->
+        <method>sha512</method>
+        <!--  需要加密的文件名称telephone.txt  -->
+        <filename>telephone.txt</filename>
+    </EncryptionInfo>
+</config>
